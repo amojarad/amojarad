@@ -1,6 +1,5 @@
 <h1 align="left">Hi, I'm Amirhossein Soleimani Mojarad 👩🏾‍💻</h1>
 <h1 align="left">Front-End Developer</h1>
-![Front-End Developer](https://media.licdn.com/dms/image/C5616AQEcDjILhyMh0A/profile-displaybackgroundimage-shrink_350_1400/0/1517474830100?e=1718841600&v=beta&t=psly5KTG77jehzRmGs1WuuCxpKeA1_wjFlnFOI6OP_c)
 
 I am a dedicated frontend developer with 10 years of background as an IT Specialist. My transition from IT specialist to developer has fueled my drive to excel in this field, and I am ready to take on new challenges and continue growing as a professional in the field of frontend development. I am eager to contribute my skills to a dynamic and innovative team.
 
