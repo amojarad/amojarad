@@ -9,8 +9,8 @@ Skills: Javascript / REACT / Tailwind CSS / SASS / CSS / HTML / npm / Git
 <h2 align="left">Get in touch</h2>
 <p align="left">
 <a href="mailto:a.soleimanimojarad@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="e-mail recipient address" height="30" width="80" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amirhosseinsoleimanimojarad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirhosseinsoleimanimojarad/" height="30" width="40" /></a>
-<a href="https://codepen.io/https://codepen.io/amojarad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/amojarad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amirhosseinsoleimanimojarad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirhosseinsoleimanimojarad/" height="30" width="40" /></a>
+<a href="https://codepen.io/amojarad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/amojarad" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools</h2>
