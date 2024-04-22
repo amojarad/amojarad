@@ -27,10 +27,6 @@ Skills: Javascript / REACT / Tailwind CSS / SASS / CSS / HTML / npm / Git</p>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 <br>
-<h2></h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amojarad&show_icons=true&locale=en&layout=compact" alt="amojarad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amojarad&show_icons=true&locale=en" alt="amojarad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amojarad&" alt="amojarad" /></p>
+<h2 align="left">Stats</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amojarad&show_icons=true&locale=en" alt="amojarad" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amojarad&label=Profile%20views&color=0e75b6&style=flat" alt="amojarad" /> </p>
