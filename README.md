@@ -1,17 +1,15 @@
-<h1 align="left">Hi, I'm Amirhossein Soleimani Mojarad 👩🏾‍💻</h1>
-<h1 align="left">Front-End Developer</h1>
+<h1 align="left">Hi, I'm Amirhossein 👩🏾‍💻</h1>
+<img src="https://github.com/amojarad/amojarad/assets/119547018/18658466-a038-40b0-b515-129db14eccca" alt="banner"/>
+<p>I am a dedicated frontend developer with 10 years of background as an IT Specialist. My transition from IT specialist to developer has fueled my drive to excel in this field, and I am ready to take on new challenges and continue growing as a professional in the field of frontend development. I am eager to contribute my skills to a dynamic and innovative team.
 
-I am a dedicated frontend developer with 10 years of background as an IT Specialist. My transition from IT specialist to developer has fueled my drive to excel in this field, and I am ready to take on new challenges and continue growing as a professional in the field of frontend development. I am eager to contribute my skills to a dynamic and innovative team.
-
-Skills: Javascript / REACT / Tailwind CSS / SASS / CSS / HTML / npm / Git
-
+Skills: Javascript / REACT / Tailwind CSS / SASS / CSS / HTML / npm / Git</p>
 <h2 align="left">Get in touch</h2>
 <p align="left">
 <a href="mailto:a.soleimanimojarad@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="e-mail recipient address" height="30" width="80" /></a>
 <a href="https://www.linkedin.com/in/amirhosseinsoleimanimojarad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirhosseinsoleimanimojarad/" height="30" width="40" /></a>
 <a href="https://codepen.io/amojarad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/amojarad" height="30" width="40" /></a>
 </p>
-
+<br>
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -28,7 +26,8 @@ Skills: Javascript / REACT / Tailwind CSS / SASS / CSS / HTML / npm / Git
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
-
+<br>
+<h2></h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amojarad&show_icons=true&locale=en&layout=compact" alt="amojarad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amojarad&show_icons=true&locale=en" alt="amojarad" /></p>
