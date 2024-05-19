@@ -1,6 +1,10 @@
 <h1 align="left">Hi, I'm Amirhossein 👩🏾‍💻</h1>
 <img src="https://github.com/amojarad/amojarad/assets/119547018/18658466-a038-40b0-b515-129db14eccca" alt="banner"/>
-<p>I am a dedicated frontend developer with 10 years of background as an IT Specialist. My transition from IT specialist to developer has fueled my drive to excel in this field, and I am ready to take on new challenges and continue growing as a professional in the field of frontend development. I am eager to contribute my skills to a dynamic and innovative team.</p>
+<p>A well-organised and talented person who has the ability to build smart user interfaces and useful interactions. Having precise skills that will be absolutely valuable to a team.
+
+Highly dedicated and detail-oriented individual with a strong commitment to the company. Strong decision-making skills under pressure, coupled with exceptional teamwork and communication abilities.
+
+Always eager to expand his knowledge and skills in this field. Interested in all aspects of front-end and working with talented and ambitious people on various projects.</p>
 <h2 align="left">Get in touch</h2>
 <p align="left">
 <a href="mailto:a.soleimanimojarad@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="e-mail recipient address" height="30" width="80" /></a>
